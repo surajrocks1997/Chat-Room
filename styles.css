@@ -1,0 +1,29 @@
+body{
+    background-image: url(img/img.jpg);
+    color: white;
+}
+h1{
+    font-family: product sans;
+}
+.list-group{
+    color: black;
+}
+.container{
+    max-width: 600px;
+}
+.btn{
+    background: #7340a3;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn:focus{
+    outline: none !important;
+}
+.username{
+    font-weight: bolder;
+}
+.time{
+    font-size: 0.7em;
+    color: #999;
+}
